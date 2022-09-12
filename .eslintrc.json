@@ -12,5 +12,6 @@
     "sourceType": "module"
   },
   "plugins": ["@typescript-eslint"],
+  "ignorePatterns": ["*.json"],
   "rules": {}
 }
